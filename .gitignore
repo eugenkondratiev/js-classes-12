@@ -1,0 +1,12 @@
+# training files 
+*.[0-9].*
+result.txt
+pray*.txt
+sum.js
+conversation*.txt
+my-lib*.js
+*.json
+
+
+#homework 12
+secret.*
